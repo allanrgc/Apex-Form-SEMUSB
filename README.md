@@ -103,5 +103,5 @@ VISUALIZAÇÃO DE PDF<br>
 
 <hr>
 <br>
-[<< Voltar para a página inicial] (https://github.com/allanrgc)
-<hr/>
+
+[<< Voltar para a página inicial](https://github.com/allanrgc)
